@@ -1,0 +1,563 @@
+.font {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 700;
+}
+
+.fontz {
+    font-family: 'Prompt', sans-serif;
+    font-weight:600;
+}
+
+.fontss {
+    font-family: 'Montserrat', sans-serif;
+}
+.fonta {
+     font-family: 'Montserrat';
+}
+.nav-item {
+    padding-right: 30px;
+}
+
+.nav-link:hover {
+    /* text-decoration: underline; */
+    border-bottom: 2px solid rgb(159,103,211);
+}
+
+a.btn.btn-success {
+    background: blue;
+    color:yellow;
+    outline:none;
+    }
+
+    a.btn.btn-success:hover {
+        text-decoration: underline;
+    }
+
+
+
+
+    section {
+        /* height:647px;
+        background: linear-gradient(90deg, #0800A5 0%, #070268 83.68%); */
+    }
+
+    .carousel-caption p{
+        text-align: left;
+        margin-top: -400px;
+    }
+    
+    .carousel-caption h1 {
+        color:yellow;
+        font-size: 35px;
+        text-align: left;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+
+    
+    span.exclaim {
+        color:white;
+    }
+
+    span.free {
+        color:yellow;
+        font-size:65px;
+    }
+
+    a.btn.btn-white {
+        margin-top: -350px; 
+       background: white; 
+       color:blue; */
+    }
+
+    a.btn.btn-danger:hover {
+        color:#6962f0
+    }
+
+    .carousel-caption h3 {
+        color:white;
+        font-size:60px;
+        font-weight: 800;
+        margin-top: 100px;
+        
+    }
+
+    .waka {
+        color:yellow;
+    }
+
+    a.btn.btn-warning {
+        position: absolute;
+        margin-top: -210px;
+         background: white; 
+         color:blue;
+          font-size: 13px;
+          left: 230px;
+    }
+
+    a.btn.btn-light {
+         background: white; 
+         color:blue;
+          
+    }
+  
+    .container .carousel-caption h2 {
+        font-size: 53px;
+        font-weight: 800;
+    }
+
+    .container .carousel-caption .fontss {
+        font-size: 78px;
+        font-weight:bolder;
+        white-space: nowrap;
+    }
+
+    .sekshun {
+        background: #fff;
+        height:500px;
+    }
+
+    .sektion2 {
+        background: rgba(255, 252, 233, 1);
+        height:500px;
+    }
+   
+   div.card {
+    box-shadow: rgb(0, 0, 0, 0.2);
+   }
+
+   .card-body {
+    padding: 5px 8px 8px 15px;
+    outline: none;
+    box-shadow: rgba(0, 0, 0, 0.4);
+}
+
+.sekshun {
+
+}
+
+img.first {
+ z-index:-2;
+}
+
+img.second {
+    margin-left:150px; 
+    z-index:2; 
+    margin-top:-120px;
+     width:210px;
+}
+
+img.third {
+    z-index:-2;
+     margin-left:100px;
+      margin-top:100px;
+}
+
+img.fourth {
+    width:210px;
+     margin-left:-60px;
+    z-indez:2;
+    margin-top:-310px;
+}
+
+.sektion2 {
+    
+}
+
+img.kone {
+   width:80%;
+     z-index:-2;
+     margin-left:-250px;
+}
+
+img.k2 {
+    margin-top:-60px;
+     margin-left:-185px;
+     width:50%;
+}
+
+img.k3 {
+    z-index:2;
+     margin-top:-180px; 
+     margin-left:138px;
+     width:45%;
+}
+
+
+.sektion3 {
+    background: #fff;
+}
+
+.container-text-center {}
+
+.col-one {
+    margin-left:170px;
+     margin-top:20px;
+      background:rgb(245,245,245);
+       max-width:470px;
+        height:430px;
+        border-radius:8px;
+}
+
+.card.lab {
+    max-width: 400px;
+     height:130px; 
+     margin-top: 30px;
+}
+
+img.img-fluid.rounded-start {
+    margin-left:-60px;
+     margin-top: 20px;
+}
+
+.card-title-2{
+    margin-left:-150px;
+}
+
+p.card-text.fontss-1 {
+    margin-left:-65px;
+     font-size:14px;
+      color:rgba(119, 119, 119, 1);
+       width:120%;
+}
+
+.card.lab2 {
+    max-width: 400px;
+     height:130px;
+      margin-top: 30px;
+}
+
+img.img-fluid.rounded-start2 {
+    margin-left:-60px;
+     margin-top: 20px; 
+     height:43px;
+     
+}
+
+.card-title-3 {
+    margin-left:-80px;
+}
+
+p.card-text.fontss-2 {
+    margin-left:-79px; 
+    font-size:14px; 
+    color:rgba(119, 119, 119, 1);
+     width:120%;
+      margin-top:-5px;
+}
+
+.card.lab3 {
+    max-width: 360px;
+     height:100px;
+      margin-top: 30px;
+}
+
+img.img-fluid.rounded-start3 {
+    margin-left:-60px;
+     margin-top: 20px;
+}
+
+.card-title-4 {
+    margin-left:-120px;
+}
+
+p.card-text.fontss-3 {
+    margin-left:-75px;
+     font-size:14px; 
+     color:rgba(119, 119, 119, 1);
+      width:120%;
+       margin-top: -5px;
+}
+
+.col-two {
+    margin-left:100px;
+    background:rgb(245,245,245);
+     max-width:470px; 
+     height:425px; 
+     margin-top:20px; 
+     border-radius:8px;
+}
+
+.card.lab4 {
+    max-width: 360px;
+     height:100px;
+      margin-top: 30px;
+       margin-left: 40px;
+}
+
+img.img-fluid.rounded-start4 {
+    width:20px;
+     height:45px; 
+     margin-left:-60px; 
+     margin-top:20px;
+}
+
+.card-title-5 {
+    margin-left:-70px;
+     width:130%;
+}
+
+p.card-text.fontss-4 {
+    color:rgba(119, 119, 119, 1); 
+    width:130%;
+     margin-left: -75px; 
+     font-size: 14px;
+}
+
+.card.lab5 {
+    max-width: 360px;
+     height:100px;
+      margin-top: 30px; 
+      margin-left: 40px;
+}
+
+img.img-fluid.rounded-start5 {
+    width:auto;
+     height:45px; 
+     margin-left:-60px;
+      margin-top:20px;
+}
+
+.card-title-6 {
+    margin-left:-70px;
+     width:130%;
+}
+
+p.card-text.fontss-5 {
+    color:rgba(119, 119, 119, 1);
+     width:130%;
+      margin-left: -75px;
+       font-size: 14px;
+}
+
+.card.lab6 {
+    max-width: 360px;
+     height:100px;
+      margin-top: 30px;
+       margin-left: 40px;
+}
+
+img.img-fluid.rounded-start6 {
+    width:auto;
+     height:45px;
+      margin-left:-60px;
+       margin-top:20px;
+}
+
+.card-title-7 {
+    margin-left:-70px;
+     width:130%
+}
+
+p.card-text.fontss-7 {
+    color:rgba(119, 119, 119, 1);
+     width:130%; 
+     margin-left: -75px;
+      font-size: 14px;
+}
+
+h3.heih {
+    font-size:27px; 
+    width:85%; 
+    line-height:1.5;
+    font-weight:600;
+    margin-top: 30px;
+}
+
+
+
+div.card.kay {
+     box-shadow: 0px 7.97198486328125px 13.045065879821777px 0px rgba(0, 0, 0, 0.05);
+}
+
+img.sb {
+    width:20px; 
+    height:20px;
+    margin-left:-10px;
+    margin-top: 8px;
+}
+
+h5.card-title.mt-1 {
+    margin-left:20px
+}
+
+
+
+
+h1 {
+    margin-top:80px;
+    color:rgba(8, 0, 165, 1);
+    text-align: center;
+    font-size: 33px;
+}
+
+.pcard-text {
+    color:rgba(119, 119, 119, 1);
+}
+
+
+ .sektion4{
+    margin-top: 50px;
+     background: rgba(246, 246, 251, 1);   
+}
+
+a.btn.btn-link {
+    text-decoration: none;
+    margin-top: -280px;
+    margin-left: 250px;
+
+}
+
+.sektion5 {
+    background: #fff; 
+    margin-top: -30px;
+    height:500px;
+}
+
+.container.sektion5 h1 {
+    font-size:40px;
+}
+
+div.card {
+    width: 15rem;
+}
+
+h3.card-text.fontss {
+    font-weight:600; font-size:20px
+}
+
+div.card-2 {
+    margin-right: -30px;
+}
+
+div.card-3 .card-5 {
+    margin-left: 10px;
+}
+
+div.card-4 {
+    margin-right: -10px;
+}
+
+p.card-text.fontss {
+    font-size: 13px;
+}
+
+.sektion6 {
+   background-image: url(./img/backg.png);
+   background-position: fixed;
+   background-repeat: no-repeat;
+   background-attachment: 100%;
+   height:350px;
+}
+
+.sektion7 {
+    background:#fff;
+    height:750px;
+}
+
+.yellow img {
+    margin-left:1250px; 
+    margin-top: 40px;
+}
+
+img.mages {
+    margin-top:-280px;
+     margin-left:100px;
+}
+
+img.mage{
+    margin-top:-220px;
+     margin-left:10px;
+}
+
+.col.fontss {
+    margin-left:250px;
+     margin-top:-100px; 
+     font-size: 14px;
+      color:rgba(74,74,74,1);
+}
+
+article {
+    background:#fff; 
+    height:570px; 
+    width:510px; 
+    border-radius: 15px; 
+    box-shadow:0px 3.53239px 36.207px rgba(0, 0, 0, 0.1); 
+     margin-top: -120px;
+      margin-left:-70px; 
+}
+
+.lastsek {
+    margin-left:80px;
+     margin-top: 15px; 
+     position: absolute;
+}
+
+.lastsek h3 {
+    font-size:18px;
+     color:rgba(8, 0, 165, 1);
+     margin-top: -9px;
+}
+
+.lastsek p {
+    font-size:15px; 
+    color:rgba(119, 119, 119, 1); 
+    margin-top:-8px;
+}
+
+.row.call {
+    margin-left: 70px;
+}
+
+.col.sek {
+    margin-top:-80px;
+}
+
+.btn.btn-primary {
+    background:rgba(8, 0, 165, 1);
+     color:yellow; 
+     margin-left:320px; 
+     margin-top:30px;
+}
+
+
+footer {
+    background: rgba(8, 0, 165, 1);
+height: 390px;
+}
+
+img.magent {
+    margin-top:120px;
+     margin-left:100px;
+}
+
+.col.ft {
+    color:white; 
+    margin-top: 100px;
+}
+
+div.col-8 a {
+    color:white;
+    text-decoration: none;
+}
+
+div.col-8 a:hover {
+    text-decoration:underline;
+    color:yellow;
+    
+}
+
+img.app1 {
+    margin-top:120px;
+    margin-left: 630px;
+   }
+   
+   img.app2 {
+       margin-top: 120px;
+       margin-left: 20px;
+   }
+
+   .footer {
+    height:100px; 
+    
+}
